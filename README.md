@@ -56,7 +56,7 @@ Sinta-se à vontade para abrir issues ou enviar sugestões/melhorias!
 
 ## 🧑‍💻 Autor
 
-**Seu Nome**  
+**Witalo Dias**  
 [LinkedIn](https://www.linkedin.com/in/witalo-dias-775a59289) | [GitHub](https://github.com/witaloxz)
 
 ---
