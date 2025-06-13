@@ -1,0 +1,7 @@
+{
+    "java.project.sourcePaths": [
+        "exercícios/006-login-system/application",
+        "exercícios/003-tabuada/application",
+        "exercícios/006-login-system"
+    ]
+}
